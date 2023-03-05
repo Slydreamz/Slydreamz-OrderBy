@@ -16,7 +16,7 @@ import java.util.List;
  *
  * Example: SELECT * FROM table_name ORDER BY column1 [, column2, column3, etc...] [ASC|DESC]
  *
- * When ordering by multiple columns, the priority is from left to right.
+ * When ordering by multiple columns, the priority is from left to right
  *
  * We can order by columns in ascending or descending order. By default, ORDER BY is in ascending order. Ascending
  * order places lesser values before greater values. Descending order is the opposite, greatest values first.
